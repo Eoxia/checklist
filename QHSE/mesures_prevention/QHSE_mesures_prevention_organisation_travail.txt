@@ -1,4 +1,4 @@
-%task% Organisation du travail - ED840.pdf INRS - 1.0.0-20190114
+%task% Organisation du travail - 1.0.0-20190114
 %point%Limitation du nombre de salariés exposés aux risques
 %point%Etablissement des consignes et procédures de travail
 %point%Etablissement des fiches de postes

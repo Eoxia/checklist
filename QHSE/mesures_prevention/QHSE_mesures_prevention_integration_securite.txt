@@ -1,4 +1,4 @@
-%task%Intégration de la sécurité en amont - ED840.pdf - 1.0.0-20190114
+%task%Intégration de la sécurité en amont - 1.0.0-20190114
 %point%intégration dans les procédes de travail
 %point%Intégration des la conception
 %point%Intégration des équipements de travail

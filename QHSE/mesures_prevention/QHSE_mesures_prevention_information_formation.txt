@@ -1,4 +1,4 @@
-%task%Liste des mesures de prévention information et formation - ED840.pdf INRS - 1.0.0-20190114
+%task%Liste des mesures de prévention information et formation - 1.0.0-20190114
 %point%Sur les risques identifiés lors de l'évaluation des risques professionnel, en prenant en compte les dispostions spécifiques propices à certains risques
 %point%Sur les risques spécifiques liés à l'activité particulières des opérateurs à leur poste de travail
 %point%Sur les mesures de prévention mises en place place et envisagées pour les risques de l'entreprise et les risques spécifiques à l'activité
