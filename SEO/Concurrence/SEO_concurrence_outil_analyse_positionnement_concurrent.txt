@@ -1,7 +1,9 @@
 %task%Analyse détaillé d'un concurrent avec son positionnement - 1.0.0-20190114
-%point%Prix
+%point%CA
+%point%Nombre de personnes
+%point%Résultats annuels
+%point%Prix des produits
 %point%Qualité
 %point%Réactivité
 %point%Zone de chalandise
-%point%Vos parametres supplémentaires
-
+%point%Vos paramètres supplémentaires
