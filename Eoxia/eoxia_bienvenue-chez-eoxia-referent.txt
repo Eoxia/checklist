@@ -1,0 +1,7 @@
+%task% Bienvenue chez Eoxia - Référent - 1.0.0-20190115
+%point% Création d'un compte email. Se connecter au Cpanel de eoxia.com puis créer un compte dans l'espace "Email" - "Comptes de messagerie". Penser à l'enregistrer dans le keepass.
+%point% Se connecter au compte email pour voir s'il fonctionne (wembail.eoxia.com) Faire une capture d'écran des informations POP.
+%point% Création d'un compte administrateur sur le site shop.eoxia.com avec son email pro. Cocher la case pour envoyer le MDP par email.
+%point% Créer une invitation Discord. Envoyer le lien créée sur l'email pro
+%point% Envoyer sur l'email perso les informations de connexion du nouvel email pro. (lien de connexion : webmail.eoxia.com, utilisateur et MDP)
+%point% Quand la personne aura rejoint Discord, lui envoyer le fichier "connexion_stagiaire.bat" présent sur le réseau "public" et également la capture des information POP.
