@@ -3,7 +3,7 @@
 %point%Document Unique
 %point%Aération
 %point%Equipements sous pression
-%point%Ascenseurs, monte-cahrges
+%point%Ascenseurs, monte-charges
 %point%Appareil de levage
 %point%Accessoires de levage
 %point%Bruit
