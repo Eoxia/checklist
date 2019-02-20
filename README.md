@@ -1,4 +1,4 @@
-# checklist
+# CheckList
 All the checklist for all to do.
 Toutes les checklist pour tout faire
 
