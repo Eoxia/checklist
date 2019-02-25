@@ -1,0 +1,3 @@
+%task%Indexation - niveau 2 - 1.0.0-20190225
+%point%Indexation - Existence du sitemap.xml
+%point%Indexation - Fichier sitempas.xml soumis dans la Search Console

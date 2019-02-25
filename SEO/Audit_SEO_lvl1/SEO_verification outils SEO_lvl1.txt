@@ -1,0 +1,3 @@
+%task%Vérification outils SEO - niveau 1 - 1.0.0-20190225
+%point%Outils - Compte GA actif
+%point%Outils - Yoast SEO installé
