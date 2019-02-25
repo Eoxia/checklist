@@ -1,0 +1,3 @@
+%task%Performance - level 1 - 1.0.0-20190225
+%point%Performance - Page d'accueil rapide
+%point%Performance - Page d'accueil optimisée
