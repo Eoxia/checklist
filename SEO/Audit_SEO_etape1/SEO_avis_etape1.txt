@@ -1,0 +1,5 @@
+%task%Avis - etape 1 - 1.0.0-20190227
+%point%Avis - Réponse aux avis sur Google
+%point%Avis - Réponse aux avis sur Facebook
+%point%Avis - Plugin de gestion des avis
+%point%Avis - Mise à jour des avis sur le site

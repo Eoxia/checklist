@@ -1,0 +1,9 @@
+%task%Réseaux sociaux - etape 1 - 1.0.0-20190227
+%point%Réseaux sociaux - Icones réseaux sociaux sur le site
+%point%Réseaux sociaux - Présence des icones dans le header
+%point%Réseaux sociaux - Présence des boutons de partage
+%point%Réseaux sociaux - Existence Page Pro Facebook
+%point%Réseaux sociaux - Existence Page Twitter
+%point%Réseaux sociaux - Existence Page Instagram
+%point%Réseaux sociaux - Existence Page Pro LinkedIn
+%point%Réseaux sociaux - Existence Chaine Youtube

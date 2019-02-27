@@ -35,8 +35,7 @@
 %point%Contenu - Les pages contiennent des mots clés pertinents
 %point%Contenu - Maillage interne du site
 %point%Contenu - Ancres optimisées en interne
-%point%Contenu - Présence de backlinks
-%point%Contenu - URL optimisé
+
 %point%Contenu - Présence d'un blog
 %point%Contenu - Utilisation des marqueurs de données
 %point%Contenu - Footer optimisé
@@ -53,6 +52,7 @@
 %point%URL - Absence d'erreurs 404
 %point%URL - Page 404 optimisée
 %point%URL - Personnalisation des URLs possible
+%point%URL - URL optimisé
 
 %task%Avis
 %point%Avis - Plugin de gestion des avis
@@ -65,6 +65,7 @@
 %point%Réseaux sociaux - Existence Page Twitter
 %point%Réseaux sociaux - Existence Page Instagram
 %point%Réseaux sociaux - Existence Page Pro LinkedIn
+%point%Réseaux sociaux - Existence Chaine Youtube
 %point%Réseaux sociaux - Publication automatique du blog vers les réseaux (jetpack)
 
 %task%UX
@@ -74,4 +75,5 @@
 %point%UX - Présence de liens cliquables vers le numéro de téléphone
 
 %task%E-reputation
-%point%E-reputation - Positionnement du nom de marque en 1ère page Google 
+%point%E-reputation - Positionnement du nom de marque en 1ère page Google
+%point%E-reputation - Présence de backlinks

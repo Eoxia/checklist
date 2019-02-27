@@ -1,0 +1,10 @@
+%task%UX - etape 1 - 1.0.0-20190227
+%point%UX - Site responsive
+%point%UX - Présence d'un formulaire de contact
+%point%UX - Présence d'un captcha dans le formulaire de contact
+%point%UX - Présence de boutons d'appel à l'action
+%point%UX - Présence de liens cliquables vers le numéro de téléphone
+%point%UX - Footer optimisé (adresse, téléphone, réseaux sociaux)
+%point%UX - Présence des éléments d'assurrance et réassurrance
+%point%UX - Présence du moteur de recherche interne
+%point%UX - Profondeur d'exploration en dessous de 3 niveaux

@@ -1,0 +1,5 @@
+%task%URL - etape 1 - 1.0.0-20190227
+%point%URL - Personnalisation des URLs possible
+%point%URL - URL optimisé
+%point%URL - Page 404 optimisée
+

@@ -1,0 +1,4 @@
+%task%Balises sémantiques - etape 2 - 1.0.0-20190227
+%point%Balises sémantiques - Présence d'une balise h1 unique par page
+%point%Balises sémantiques - Présence de requête cible définie par page
+%point%Balises sémantiques - Les pages contiennent des mots clés pertinents

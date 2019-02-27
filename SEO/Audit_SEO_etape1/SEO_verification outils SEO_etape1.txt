@@ -1,0 +1,5 @@
+%task%Vérification outils SEO - etape 1 - 1.0.0-20190225
+%point%Outils - Compte GA actif
+%point%Outils - Yoast SEO installé
+%point%Outils - Propriété Search Console active
+%point%Outils - Fiche Google MyBusiness active

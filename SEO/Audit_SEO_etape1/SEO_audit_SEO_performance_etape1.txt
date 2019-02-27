@@ -1,0 +1,8 @@
+%task%Performance - etape 1 - 1.0.0-20190225
+%point%Performance - Page d'accueil rapide ordinateur
+%point%Performance - Page d'accueil rapide mobile
+%point%Performance - Site en https
+%point%Performance - Présence d'un plugin de cache
+%point%Performance - Optimisation du plugin de cache
+%point%Performance - Site sur un serveur listé (ipconfig)
+%point%Performance - Présence de contenus mixtes http/https

@@ -1,0 +1,5 @@
+%task%Structure du site - etape 1 - 1.0.0-20190227
+%point%Structure de site - Présence d'un fil d'ariane
+%point%Structure de site - Répertoires hiérarchisés selon la logique du contenu
+%point%Structure de site - Structure des hn respectée
+%point%Structure de site - Structure des pages en silo

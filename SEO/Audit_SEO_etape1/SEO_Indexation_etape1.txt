@@ -1,4 +1,4 @@
-%task%Indexation - niveau 1 - 1.0.0-20190225
+%task%Indexation - etape 1 - 1.0.0-20190225
 %point%Indexation - Vérification de l'indexation par google site:url
 %point%Indexation - Présence robot.txt
 %point%Indexation - Indexation autorisée dans le robot.txt

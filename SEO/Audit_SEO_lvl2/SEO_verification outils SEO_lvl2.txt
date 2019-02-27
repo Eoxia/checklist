@@ -1,3 +1,0 @@
-%task%Vérification outils SEO - niveau 2 - 1.0.0-20190225
-%point%Outils - Propriété Search Console active
-%point%Outils - Fiche Google MyBusiness active

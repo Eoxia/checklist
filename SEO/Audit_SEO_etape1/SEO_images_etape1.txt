@@ -1,0 +1,3 @@
+%task%Images  - etape 1 - 1.0.0-20190227
+%point%Images - Poids des images inférieur à 100kb
+%point%Images - Balises ALT complétées

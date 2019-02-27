@@ -1,0 +1,5 @@
+%task%Contenu - etape 1 - 1.0.0-20190227
+%point%Contenu - Maillage interne du site
+%point%Contenu - Ancres optimisées en interne
+%point%Contenu - Présence d'un blog
+%point%Contenu - Présence de contenus vidéos

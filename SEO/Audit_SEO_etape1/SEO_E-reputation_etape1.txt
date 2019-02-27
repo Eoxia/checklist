@@ -1,0 +1,4 @@
+%task%E-reputation - etape 1 - 1.0.0-20190227
+%point%E-reputation - Positionnement du nom de marque en 1ère page Google
+%point%E-reputation - Présence de backlinks
+%point%E-reputation - Présence de liens toxiques

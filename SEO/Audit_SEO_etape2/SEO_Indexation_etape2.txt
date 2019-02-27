@@ -1,0 +1,8 @@
+%task%Indexation - etape 2 - 1.0.0-20190225
+%point%Indexation - Existence du sitemap.xml
+%point%Indexation - Fichier sitempas.xml soumis dans la Search Console
+%point%Indexation - Optimisation du sitemap.xml
+%point%Indexation - Absence d'erreurs 404
+%point%Indexation - Utilisation des marqueurs de données
+%point%Indexation - Pages non pertinentes bloquées par le fichier robots.txt
+%point%Indexation - Présence du lien vers le sitemaps dans le robots.txt
