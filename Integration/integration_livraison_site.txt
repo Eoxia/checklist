@@ -1,0 +1,7 @@
+﻿%task%Livraison - 1.0.0-20190225
+%point%Installer Contact Form 7
+%point%Installer Flamingo
+%point%Installer YOAST SEO et masquer ses informations dans la liste des pages/articles
+%point%Désactiver les commentaires du site : décocher les 3 premiers réglages dans l'onglet "Réglages -> Discussion"
+%point%Créer un compte pour le client, enregistrer ses informations dans KeePass
+%point%Se connecter sur le compte du client et nettoyer l'interface client
