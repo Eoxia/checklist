@@ -1,6 +1,7 @@
 # CheckList
 All the checklist for all to do. Just copy/paste checklist in the WordPress plugin [Task Manager](https://fr.wordpress.org/plugins/task-manager/)
-Toutes les checklist pour tout faire, il suffit juste de copier/coller les listes dans l'extension de WordPress : [Task Manager](https://fr.wordpress.org/plugins/task-manager/)
+
+Toutes les checklists pour tout faire, il suffit juste de copier/coller les listes dans l'extension de WordPress : [Task Manager](https://fr.wordpress.org/plugins/task-manager/)
 
 
 ##  Charte de nommage et organisation des fichiers
