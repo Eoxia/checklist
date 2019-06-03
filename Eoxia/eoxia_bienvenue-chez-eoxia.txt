@@ -1,5 +1,5 @@
-%task% Bienvenue chez Eoxia - 1.2.0-20190529
-%point% [securité] Prends connaissance du Document Unique (sur le reseau dans public/qualite) qui résume tous les risques présents dans l'entreprise, n'hésites pas à demander si tu as des questions.
+%task% Bienvenue chez Eoxia - 1.2.1-20190603
+%point% [securité] Prends connaissance du Document Unique qui résume tous les risques présents dans l'entreprise, n'hésites pas à demander si tu as des questions. (Dossier Public -> manuel_qualite\administratif\Document Unique)
 %point% [Interface Task Manager] Avant de commencer, rends-toi dans l'onglet "Utilisateurs" - "Votre profil" puis coche toutes les cases en rapport avec Task Manager : Temps passé calculé automatiquement, Affichage avancé, Point rapide et Afficher les indicateurs. Tu auras désormais accès à l'interface complète.
 %point% [Keepass, gestionnaire de mot de passe] Télécharge Keepass : https://keepass.info/download.html (version 2.x.x). Lance le logiciel et créer-toi un fichier que tu nommeras par ton prénom. Tu pourras y stocker tous tes comptes de manière sécurisée.
 %point% [Installation Discord] Installe Discord https://discordapp.com/download (messagerie instantannée) qui te permettra de communiquer avec l'équipe. Créer-toi un compte, et rejoint le groupe Eoxia. Tu devrais avoir reçu le lien d'invitation sur ton email pro.
