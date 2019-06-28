@@ -1,0 +1,30 @@
+%task%Antécédents connus du produit - 1.0.0-20190628
+%point%Conditions d’utilisation ou événements exceptionnels lors de l'utilisation
+%point%chute ou arrêt d’une chute
+%point%stockage à températures extrêmes
+%point%modification hors des ateliers du fabricant
+%point%Autres
+%task%Observations préalables
+%point%Vérifiez la présence et la lisibilité du numéro de série et du marquage CE.
+%point%Vérifiez que la durée de vie du produit n’est pas dépassée.
+%point%Comparez avec un appareil neuf l’absence de modification ou perte d’un élément
+%task%Vérification du corps
+%point%Vérifiez l’état du corps (marques, déformations, fissures, corrosion...).
+%point%Vérifiez l’état des bords du trou de connexion (marques, déformations, fissures sont le signe de l'arrêt d'une chute).
+%point%Vérifiez l'état de la butée d'arrêt du galet (marques, déformations, fissures sont le signe de l'arrêt d'une chute).
+%point%Vérifiez l'état du ou des capots de protection.
+%task%Vérification des parties mobiles
+%point%Vérifiez l’état du/des galets (marques, déformations, fissures, corrosion..).
+%point%Le galet ne doit pas être encrassé. Si nécessaire, nettoyez le en suivant les préconisations du contructeur
+%point%Vérifiez la rotation du galet
+%point%Faites tourner le galet d'un tour complet dans les deux sens, vérifiez l'absence de points durs.
+%point%Vérifiez la présence de toutes les dents et leur état d'usure.
+%task%Vérification des parties mobiles actionnables
+%point%Vérifiez l’état du bras (marques, déformations, fissures, corrosion..).
+%point%Vérifiez l’état de la butée de sécurité (marques, déformations, fissures sont signes de l'arrêt d'une chute)
+%point%Vérifiez l’efficacité du/des ressorts de rappel du bras.
+%task%Vérification fonctionnelle
+%point%Installation du système
+%point%vérifiez le blocage correct lors d'une traction brusque vers le bas (sens d'une chute).
+%point%Après le blocage, vérifiez que le déblocage s'effectue normalement.
+%point%Vérification du fonctionnement normal
