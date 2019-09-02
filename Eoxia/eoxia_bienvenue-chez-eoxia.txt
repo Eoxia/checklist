@@ -7,14 +7,7 @@
 %point% [Associer adresse @eoxia.com à @gmail.com] Dans les paramètres de ta boite Gmail, va dans l'onglet "Comptes et importation" puis associe l'adresse "monprenom@eoxia.com" dans la partie "Consulter d'autres comptes de messagerie". Les informations à entrer te seront envoyées par Discord.
 %point% [Compte WordPress.org] Créer-toi un compte sur WordPress : https://login.wordpress.org/register
 %point% [Compte WordPress.com] Créer-toi un compte sur Wordpress : https://wordpress.com/start/user
-%point% [Google Agenda partagé] Rends-toi dans les paramètres de Googla Agenda de ton compte gmail pro. Sélectionne ton agenda, puis partage le aux adresses emails suivantes :
-laurent1magnin@gmail.com
-contact.eoxia@gmail.com
-manuella.eoxia@gmail.com
-corentin.eoxia@gmail.com
-amandine.eoxia@gmail.com
-jimmy.eoxia@gmail.com
-camille.eoxia@gmail.com.
+%point% [Google Agenda partagé] Rends-toi dans les paramètres de Googla Agenda de ton compte gmail pro. Sélectionne ton agenda, puis partage le aux adresses emails de chacun.
 Ensuite modifie les droits pour chacun à "Modifier des événements"
 %point% [Agenda de l'équipe] Demande à Cédric, Laurent ou Amandine l'accès à l'agenda commun "EO-équipe".
 %point% [Réseaux sociaux] Abonne toi aux réseaux sociaux de Eoxia : Facebook, Twitter et Youtube
