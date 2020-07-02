@@ -5,3 +5,4 @@
 %point%Désactiver les commentaires du site : décocher les 3 premiers réglages dans l'onglet "Réglages -> Discussion"
 %point%Créer un compte pour le client, enregistrer ses informations dans KeePass
 %point%Se connecter sur le compte du client et nettoyer l'interface client
+%point%Installer et configurer MainWP si le site est en production
