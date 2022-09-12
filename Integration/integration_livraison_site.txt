@@ -1,8 +1,13 @@
-﻿%task%Livraison - 1.0.0-20190225
-%point%Installer Contact Form 7
-%point%Installer Flamingo
-%point%Installer YOAST SEO et masquer ses informations dans la liste des pages/articles
-%point%Désactiver les commentaires du site : décocher les 3 premiers réglages dans l'onglet "Réglages -> Discussion"
-%point%Créer un compte pour le client, enregistrer ses informations dans KeePass
-%point%Se connecter sur le compte du client et nettoyer l'interface client
-%point%Installer et configurer MainWP si le site est en production
+Livraison - 2.0.0-20220912
+
+* Réglages WordPress
+- Désactiver les commentaires du site : décocher les 3 premiers réglages dans l'onglet "Réglages -> Discussion"
+- Créer un compte éditeur pour le client, enregistrer ses informations dans KeePass
+
+
+* Extension à installer
+- Installer Contact Form 7. Créer le formulaire par défaut avec l'adresse du client, puis afficher le formulaire sur la page "Contact".
+- Installer Flamingo
+- Installer YOAST SEO et masquer ses informations dans la liste des pages/articles
+- Installer Analytics
+- Installer et configurer MainWP si le site est en production
