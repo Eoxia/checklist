@@ -12,3 +12,6 @@ Livraison - 2.0.0-20220912
 - Installer Analytics
 - Installer et configurer MainWP si le site est en production
 - Installer la version gratuite de Wordfence
+
+* Réglages extensions
+- Activer les mises à jour automatiques
