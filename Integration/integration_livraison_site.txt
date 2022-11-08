@@ -11,3 +11,4 @@ Livraison - 2.0.0-20220912
 - Installer YOAST SEO et masquer ses informations dans la liste des pages/articles
 - Installer Analytics
 - Installer et configurer MainWP si le site est en production
+- Installer la version gratuite de Wordfence
