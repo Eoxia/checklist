@@ -3,15 +3,22 @@ Livraison - 2.0.0-20220912
 * Réglages WordPress
 - Désactiver les commentaires du site : décocher les 3 premiers réglages dans l'onglet "Réglages -> Discussion"
 - Créer un compte éditeur pour le client, enregistrer ses informations dans KeePass
+- Vérifier que le site soit lu par les moteurs de recherches si le site est en production
 
 
 * Extension à installer
 - Installer Contact Form 7. Créer le formulaire par défaut avec l'adresse du client, puis afficher le formulaire sur la page "Contact".
+- Installer et configurer le captcha pour Contact Form 7
 - Installer Flamingo
 - Installer YOAST SEO et masquer ses informations dans la liste des pages/articles
 - Installer Analytics
+- Installer et configurer Easy WP SMTP
 - Installer et configurer MainWP si le site est en production
 - Installer la version gratuite de Wordfence
+- Installer All in one WP Security
+
+* Réglages pages
+- Modifier Meta Title de la page accueil : mettre le nom du site
 
 * Réglages extensions
 - Activer les mises à jour automatiques
