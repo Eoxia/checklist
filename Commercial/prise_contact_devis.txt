@@ -1,0 +1,10 @@
+Prise de contact pour devis - 1.0.0-20221115
+
+- charte graphique existante ? logo ? non, oui
+- ancien site existant ? brochure deja crée ?
+- contenu existant photos pro, texte ecrit ?
+- domaine crée, emails ?
+- hebergement, maintenance, sav ?
+- besoins SEO ?
+- budget ?
+- quand est prévue la livraison du site ?
