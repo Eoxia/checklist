@@ -4,6 +4,7 @@ Livraison - 2.0.0-20220912
 - Désactiver les commentaires du site : décocher les 3 premiers réglages dans l'onglet "Réglages -> Discussion"
 - Créer un compte éditeur pour le client, enregistrer ses informations dans KeePass
 - Vérifier que le site soit lu par les moteurs de recherches si le site est en production
+- Enlever le DEBUG mode dans le fichier wp-config.php
 
 
 * Extension à installer
