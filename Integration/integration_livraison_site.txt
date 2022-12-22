@@ -22,6 +22,7 @@ Livraison - 2.0.0-20220912
 
 * Réglages pages
 - Modifier Meta Title de la page accueil : mettre le nom du site
+- Création de la page "Mentions légales", ajouter dans le footer
 
 * Réglages extensions
 - Activer les mises à jour automatiques
