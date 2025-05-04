@@ -1,5 +1,0 @@
-%task% Organisation du travail - 1.0.0-20190114
-%point%Limitation du nombre de salariés exposés aux risques
-%point%Etablissement des consignes et procédures de travail
-%point%Etablissement des fiches de postes
-%point%Mise à disposition des moyens de protection individuelle

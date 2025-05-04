@@ -1,7 +1,7 @@
-# CheckList
-All the checklist for all to do. Just copy/paste checklist in the WordPress plugin [Task Manager](https://fr.wordpress.org/plugins/task-manager/)
+# CheckList pour DigiQuali.com
 
-Toutes les checklists pour tout faire, il suffit juste de copier/coller les listes dans l'extension de WordPress : [Task Manager](https://fr.wordpress.org/plugins/task-manager/)
+Toutes les checklists pour tout faire, il suffit juste de copier/coller d'importer les checklist pour DigiQuali dans votre module [DigiQuali](https://digiquali.com/)
+Il est possible que certains fichiers soient encore à l'ancien format. Dans ce cas, il faudra reprendre les questions et les importer manuellement.
 
 
 ##  Charte de nommage et organisation des fichiers
@@ -11,8 +11,7 @@ Les noms ci-dessous sont des dossiers chaque dossier est relatif d'une catégori
 * Web
 * SEO
 * Audit
-* Industrie
-* QHSE
+* ...
 
 ### Nom des fichiers sources des checklist
 
@@ -30,3 +29,11 @@ Le systeme de version est basé sur semversion, il doit être indiqué dans la p
 %task%Sujet du formulaire - X.Y.Z-AAAAMMJJ
 Exemple :
 %task%Vérification de la conformité RGPD - 1.1.0-20180523
+
+
+************************Old informations ***************
+# CheckList
+
+All the checklist for all to do. Just copy/paste checklist in the WordPress plugin [Task Manager](https://fr.wordpress.org/plugins/task-manager/)
+
+Toutes les checklists pour tout faire, il suffit juste de copier/coller les listes dans l'extension de WordPress : [Task Manager](https://fr.wordpress.org/plugins/task-manager/)
